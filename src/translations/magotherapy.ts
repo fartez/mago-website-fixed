@@ -1,0 +1,421 @@
+export const magotherapyTranslations = {
+  ge: {
+    appointmentOnly: "მიღება მხოლოდ ჩაწერით",
+    bookAppointment: "ჩაწერა\nვიზიტზე\nექიმთან",
+    bookingEmoji: "✏️",
+    pageTitle: "მაგოთერაპია",
+    subtitle: "არა ქირურგიული\n\nარა მედიკამენტოზური\n\nმხედველობის აღდგენის ფიზიოლოგიური მეთოდი",
+    clinicallyTested: "კლინიკურად გამოცდილი. სტაბილური შედეგები. გართულებების და რისკის გარეშე.",
+    videoTitle1: "აპარატურული პერსონიფიცირებული მკურნალობა",
+    videoTitle2: '"ქირურგიის და მედიკამენტების გარეშე',
+    mainHeading: "მაგოთერაპია",
+    mainSubheading: "მხედველობის აღდგენის ფიზიოლოგიური მეთოდი\nქირურგიისა და მედიკამენტების გარეშე.\n\nპერსონიფიცირებული აპარატურული მკურნალობა.",
+
+    whatIsMagotherapy: "რას ეფუძნება მაგოთერაპია",
+    vedenskyText: "1901 წელს რუსმა ფიზიოლოგმა ნ.ე. ვვედენსკიმ სენსაციური აღმოჩენა გააკეთა. მან დაამტკიცა, რომ ნებისმიერი პათოლოგიის დროს უჯრედები იმყოფებიან ცოცხალი, მაგრამ ფუნქცია დაკარგული „მიძინებული\" ანუ პარაბიოტულ მდგომარეობაში. ეს აღმოჩენა გახდა საწინდარი იმისა, რომ მეცნიერების გარკვეულმა ჯგუფმა დაიწყო ბადურაზე არსებული უჯრედების „გამოღვიძება\", ანუ მათთვის ფუნქციის (მხედველობის) აღდგენა, ე.ი. პარაბიოტული მდგომარეობიდან გამოყვანა. 1980 წლების ბოლოს მოსკოვის თვალის მიკროქირურგიის ინსტიტუტში იყო ბევრი სხვა და სხვა სახის წარმატებული მცდელობა, უჯრედების პარაბიოტული მდგომარეობიდან გამოყვანის, მათ შორის ქირურგიული გზითაც, მაგრამ ოპერაციის სირთულისა და ტრავმატულობის გამო ამ მეთოდმა ფართო გავრცელება ვერ მოიპოვა",
+    vedenskyText2: "ჩვენი კოლეგების პოზიტიური გამოცდილების ინტერპრეტაციამ ჩაუყარა საფუძველი მაგოთერაპიას.\nუჯრედების პარაბიოტიული მდგომარეობიდან გამოსაყვანად ანუ მათთვის ფუნქციის (მხედველობის) დასაბრუნებლად ჩვენ ქირურგიული ჩარევის ნაცვლად, ჩავატარეთ კლინიკური აპრობაცია, დავნერგეთ და გამოვიყენებთ მხოლოდ აპრატურულ, სრულად ფიზიოლოგიურ მეთოდს - მაგოთერაპია\nმაგოთრაპიით მკურნალობისას, სხვა და სხვა ტიპის აპარატურას, მონაცვლებით ვანთავსებთ კანის ზემოდან მხედველობის ტრაქტის მიმართულებით, რომელიც, წამის 0,002 ნაწილში, ორგანიზმში იწვევს დადებით ბიოქიმიურ ცვლილებებს, რაც ხელს უწყობს უჯრედშიდა ნივთიერებათა ცვლის აღდგენას, უჯრედები გამოდიან პარაბიოტული მდგომარეობიდან „იღვიძებენ\" და იგივე დროის მონაკვეთში (წამის 2000 ნაწილში) შუქის იმპულსი გარდაიქმნება ნეიროიმპულსათ, ტვინი ღებულობს ამ იმპულს, გადაამუშავებს მას და თვალს უბრუნდება მკაფიო და მკვეთრ გამოსახულებას",
+    magotherapyBoldText: "ქირურგიის და მედიკამენტების სრულად გამორიცხვით, ჩვენმა კოლეგებმა პარაბიოტულ მდგომარეობაში მყოფი უჯრედების გამოყვანის დადებითი შედეგების საფუძველზე შევიმუშავეთ, კლინიკურად გამოვცადეთ და დავნერგეთ აბსოლიტურად ფიზიოლოგიური მეთოდი- მაგოთერაპია",
+
+    parabiozi: "პარაბიოზი",
+    parabioziText: "ეს არის სიცოცხლესთან ახლოს   მდგომარეობა  „PARA“ -  ახლოს  „BIOS „   -სიცოხლე .\n პარაბიოზი    უჯრედის  ან ქსოვილის  ისეთი  მდგომარეობაა,  როდესაც ,  სხვა და სხვა ტიპის გამაღიზიანებლების  ზემოქმედებით   ( მექნიკური, ფიზიკური ,ქიმიური აგენტებით) უჯრედი  არ  კარგავს სტრუქტურულ  მთლიანობას , მაგრამ არ ფუნქციონირებს- იმყოფება  სიცოცხლესთან ახლო მდგომარეობაში. \nპარაბიოზს  საფუძვლად  უდევს გამტარიანობის  და  აღგზნებადობის დაქვეითება;    რაც დაკავშირებულია  უჯრედ შიდა  ნივთიერებათა  ცვლის  დარღვევასთან.\n პარაბიოტულ მდგომარეობას ახასიათებს სხვა და სხვა განვითარების ფაზები რომელიც დამოკიდებულია მავნე აგენტის ზემოქმედების ხანგრძლივობაზე და ძალაზე.\nთუ დროულად მოვაშორებთ მავნე აგენტს ხდება ამ ფაზების უკუ განვითარება, სხვა შემთხვევაში დგება ქსოვილის ან ნერვის ბიოლოგიური სიკვდილი.\nკარგი ინფორმაციაა- პარაბიოზი შექცევადი პროცესია!\n ნეიროფიზიოლოგ ნ.ვვედენსკის სამეცნიერო კვლევებმა პარაბიოზის შესახებ, შეცვალა ფიზიოლოგიაში არსებული ძალის ზემოქმედების კანონი. მან დაადგინა რომ პარაბიოზის დროს წარმოიქმნება სამი უწყვეტი ერთიანი პროცესი (გაღიზიანება, დამუხრუჭება და სიმშვიდის მდგომარეობა). მთავარია- ძალის მომატებისას ქსოვილის ან უჯრედის საპასუხო რეაქცია კი არ მატულობს, არამედ კლებულობს.\nამ მტკიცებულობამ, ჩვენმა გამოცდილებამ და სურვილმა უფრო მეტად აღგვედგინა მხედველობა, შთაგვაგონა შეგვექმნა მაგოთერაპიით მკურნალობის ინდივიდუალური სქემა- პერსონიფიცირებული მკურნალობა, რომელიც ადაპტირებულია კონკრეტულ ორგანიზმთან.\nპარაბიოზი საფუძვლად უდევს ადგილობრივ ანსტეტიკების გამოყენებას. ადგილობრივი ანესტეტიკები ბლოკავენ ნატრიუმის არხებს, რომელსაც ნეირონები და ნერვული ბოჭკოები არ შეიცავენ, შესაბამისად არ ხდება ნეირონის და ნერვული ბოჭკოების აღგზნებადობა, ამიტომაც ტკივილი არ ვრცელდება და ხდება მისი კუპირება\nპარაბიოზი არ არის მარტო ლაბორატორიული ფენომენი იგი ცხოვრებაშიც გვხვდება თუნდაც როდესაც გვძინავს ტვინის გარკვეული ნაწილი პარაბიოტულ მდგომარებაშია, აგრეთვე კლინიკური სიკვდილი არის პარაბიოტული მდგომარეობის გამოვლინება და სხვა\n",
+
+    whyPoorVision: "რატომ ხედავთ ცუდად?",
+    whyPoorVisionText: "ადამიანს არ ესმის ყურით, არ ხედავს თვალით — ყველა ორგანოს კოორდინაციას უწევს ნერვული სისტემა",
+    whyPoorVisionImportantHeading: "მკაფიო ხედვისთვის მთავარია",
+    important1: "რამდენად ხარისხიანად ღებულობს ინფორმაციას ტვინი ნეიროიმპულსის საშუალებით",
+    important2: "როგორ გადაამუშავებს ამ ინფორმაციას",
+    important3: "როგორ გადასცემს ამ ინფორმაციას შესაბამის ორგანოებს",
+    whyPoorVisionClosing: "როდესაც ადამიანი სუსტად ხედავს ერთი ან ორივე თვალიდან, ტვინამდე მიდის (ან არ მიდის) სუსტი ან ძალიან სუსტი იმპულსი. ტვინი ვერ ამჩნევს ამ იმპულს და ვერ ამუშავებს მას, შესაბამისად თვალს უბრუნებს არასრულყოფილ გამოსახულებას.",
+
+    important: "მნიშვნელოვანია",
+
+    whatIsNerveImpulse: "რა არის ნერვული იმპულსი და ნეირონი?",
+    nerveImpulseText: "ნერვულ სისტემაში ინფორმაციის მატარებელი და გადამტანი არის ნერვული იმპულსი, რომელიც ნერვულ უჯრედში ელექტროქიმიური პროცესის შედეგად წარმოიქმნება და სწრაფად, წამის 0.002 ვრცელდება ნერვული უჯრედის გრძელი წანაზარდის - აქსონის მეშვეობით.",
+
+    neuronComparison1: "ნერვული იმპულსი წარმოიქმნება ნერვულ უჯრედში ელექტროქიმიური პროცესის შედეგად და ვრცელდება 0,002 წამში აქსონის მეშვეობით.\n\nთითოეული ნერვული უჯრედი შედგება სამი ნაწილისგან: სხეულიდან, გრძელი ნერვული ბოჭკოდან — აქსონიდან (მისი სიგრძე ადამიანში რამდენიმე მილიმეტრიდან მეტრამდეა) და რამდენიმე მოკლე განშტოებული მორჩებიდან — დენდრიტებიდან",
+    neuronComparison2: "შევადაროთ ფესვებით ამოღებული ხე ნეირონს. ნეირონის გრძელი ნაწილი - ხის ღერო. ხის ბოლქო - უჯრედის სხეული, ხოლო თხელი, წვრილი ფესვები - დენდრიტები.\n\nნერვული უჯრედები ერთმანეთისგან თხელი გარსით არის იზოლირებული. მიუხედავად ამისა ნერვულ უჯრედს შორის ინფორმაციის გადაცემა და ურთიერთობა ხდება გარსის შეერთების ადგილას რომელსაც სინაპსი ეწოდება. \n\nნერვული იმპულსი მოძრაობს აქსონზე (ხის ღეროზე), როგორც ელექტრო კაბელში დენი და გადასცემს სინაფსების საშუალებით აღგზნებადობას, მხოლოდ ერთი მიმართულებით - აქსონიდან დენდრიტებამდე ან უჯრედის სხეულამდე (ხის ღეროდან ბოლქვამდე ან ფესვებამდე)",
+
+    howNerveImpulseFormed: "როგორ წარმოიქმნება ნერვული იმპულსი",
+    nerveImpulseFormationText: "ნერვული იმპულსი არის ელექტროქიმიური პროცესი\n\nნერვული იმპულსის წარმოსაქმნელად და სწორად ფუნქციონირებისთვის საჭიროა ენერგია, რომელიც წარმოიქმნება უჯრედში ბიოქიმიური პროცესების შედეგად, რომელიც უზრუნველყოფს უჯრედშიდა ნივთიერებათა ცვლას. უჯრედშიდა ცვლის სწორად ფუნქციონირებისთვის არსებითი მნიშვნელობა აქვს ნატრიუმისა და კალიუმის სხვაობას და მრავალი სხვა ბიოაქტიური ნივთიერების ცვლის პროდუქტების რეგულირებას.",
+
+    synchronousActivity: "უჯრედშიდა ცვლის სინქრონული და გამართული მუშაობა უზრუნველყოფს ნერვული იმპულსის სწორ ფუნქციონირებას.\n\nკანზე ზემოქმედებით, ინოვაციური აპარატურით ხდება უჯრედშიდა ცვლის აღდგენა.\n\nუჯრედები გამოდიან პარაბიოზის მდგომარეობიდან, ნერვული იმპულსი გააქტიურდება, ტვინი შეძლებს მის ამოცნობას და მხედველობა ხდება მკაფიო.",
+
+    whyVisionRestoresInHour: "მადლიერება",
+    fedorovTribute: "მადლობა და სამარიდისო  ხსოვნა   ჩემს მასწავლებლებს  თემის ხელმძღვანელს , აკადემიკოს  ბატონ  სვიატოსლავ ფიოდოროვს ,  ნეიროფიზოლოგს , ადამიანის თავის  ტვინის   ინსიტუტის დამფუძნებელს   აკადემიკოს   ქალბატონ ნატალია ბეხტერევას \n\nმადლობა და სამარიდისო ხსოვნა    მეცნიერებს   , რომლებმაც სამეცნიერო - კლინიკური  შრომების საფუძველზე  დაამტკიცეს, რომ  ნებისმიერი თვალის სნეულებების  დროს    უჯრედები არის ცოცხალი, მაგრამ არ ფუნქციონირებენ  ანუ „  სძინავთ“   იმყოფებიან პარაბიოტულ მდგომარეობაში\n\nPara“  ნიშნავს  ახლოს  ,“ Biо „– სიცოცხლე .ანუ სიცოცხლესთან ახლოს მდგომარეობა ",
+
+    mechanismOfRecovery: "მაგოთერაპიით ერთ საათში მხედველობის აღდგენის მექანიზმი",
+    mechanismText: "როდესაც  ინოვაციურ  აპარატურას მორიგეობით ვანთავსებთ კანის ზემოდან მხედველობის ტრაქტის მიმართულებით, ანუ  იმ ადგილებზე, სადაც უნდა გაიაროს მხედველობის ნერვულმა იმპულსმა , აპარატურის ზემოქმედებით   უჯრედშიდა ნივთიერებათა ცვლა იწყებს აღდგენას ,  დადებითი ბიოქიმიური პროცესების გააქტიურების გამო. მაგოთერაპიით ერთ საათში.",
+    biochemicalSubheading: "მაგოთერაპიით მკურნალობისას დადებითი ბიოქიმიური ცვლილებები გამოიხატება შემდეგში :",
+
+    biochemicalChange1: "ხდება უჯრედების გაჯერება ჟანგბადით.",
+    biochemicalChange2: "სისხლში PH დადებით ცვლილებები.",
+    biochemicalChange3: "უჯრედის მემბრანული პოტენციალის შეცვლა.",
+    biochemicalChange4: "კალიუმის და ნატრიუმის ბალანსის აღდგენა.",
+    biochemicalChange5: "პოზიტიური ბიოქიმიური ცვლილებების შედეგად უჯრედები გამოდიან პარაბიოტიული მდგომარეობიდან",
+
+    positiveChangesResult: "პოზიტიური ბიოქიმიური ცვლილებების შედეგად წამის 0,002 ნაწილში იწვევს:",
+
+    step1: "უჯრედები გამოდიან პარაბიოტიული მდგომარეობიდან.",
+    step2: "წამის 0.002 ნაწილში ნერვული იმპულსი მიდის ტვინამდე.",
+    step3: "ტვინი უკვე აღიქვამს მიღებულ იმპულს.",
+    step4: "სწორად გადაამუშავებს აღთქმულ იმპულს.",
+    step5: "უბრუნებს თვალს სრულყოფილ გამოსახულებას.",
+    step6: "ხდება მხედველობის აღდგენა.",
+
+    wholeSecret: "ამიტომაც არის შედეგი ასე დაუჯერებლად მოკლე დროში - პროცედურიდან 1 საათში!",
+    secretText: "ამიტომაც არის შედეგი ასე დაუჯერებლად\nმოკლე დროში,\nპროცედურიდან 1 საათში !",
+
+    treatmentAmbulatory: "მკურნალობა მიმდინარეობს ამბულატორიულად",
+    patientAge: "პაციენტის ასაკი: ჩვილობიდან ღრმა მოხუცებულობამდე",
+
+    lightningFlashes: "\როგორ აღიქმება ერთ საათში მომატებული მხედველობა\.",
+    lightningText: "პროცედურიდან ერთ საათში, პაციენტი მხედველობის მომატებას აღიქვამს გაელვების სახით, რომელიც გარკვეული პერიოდულობით ჩნდება თვალის წინ. ათი სამუშაო დღის მანძილზე \"გაელვების\" ხანგრძლივობა და პერიოდულობა იზრდება.\n\nმეტი და მეტი უჯრედი \"იღვიძებს\" და ერთვება მხედველობის პროცესში, ხოლო ტვინი კი \"სწავლობს\" მათზე ადექვატურ რეაგირებას. ერთ საათში მიღებულ შედეგს სჭირდება გამყარება, ყოველდღიურად, ხუთი ან ათი დღის მანძილზე, რაც ყველა კონკრეტულ შემთხვევაში ინდივიდუალურია. განმეორებითი კურსების შედეგად მხედველობა კვლავ მატულობს.",
+
+    howRealisticToTreat: "რამდენად რეალურია მრავალი დაავადების მაგოთერაპიით მკურნალობა?",
+    treatPatientNotDisease: "ჩვენ ვმკურნალობთ პაციენტს და არა დაავადებას!",
+    treatPatientText: "მხოლოდ ჩვენთან, კლინიკაში \"ახალი ტექნოლოგიები MaGo'\" შეგვიძლია გამოვავლინოთ და ავაღორძინოთ ორგანიზმის რესურსი, რაც არ არის დამოკიდებული დაავადების წარმოშობაზე, სიმძიმეზე და ხანგრძლივობაზე, აგრეთვე პაციენტის ასაკზე. სწორედ ამიტომ აღვადგენთ მხედველობას წარუმატებელი ოპერაციების შემდეგ, სხვადასხვა დაავადების მათ შორის 'განუკურნებადი' დაავადებების მქონე პაციენტებში.",
+
+    successStatistics: "წარმატების სტატისტიკა.",
+    statistics1: "სიელმე, ასტიგმატიზმი ,ახლომხედველობა",
+    statistics2: "შორსმხედველობა",
+    statistics3: "ამბლიოპია (ზარმაცი თვალი)",
+    statistics4: "ბადურის დისტროფიებია.",
+    statistics5: "უშედეგო ოპერაციები",
+    statistics6: "გლაუკომა",
+    statistics7: "ნისტაგმი",
+    statistics8: "ნერვის ატროფია (ნაწილობრივი)",
+    statistics9: "კერატოკონუსი (საწყისი სტადია ან ოპერირებული)",
+
+    repeatCourses: "მეთოდის ფიზიოლოგიურობის გამო, მკურნალობის კურსები შეიძლება ჩატარდეს\n6-9-12 თვეში სასურველი შედეგის მიღწევამდე.\n\nმაგოთერაპიის განმეორებითი კურსები დამატებით აუმჯობესებს მხედველობას.",
+
+    contraindications: "უკუჩვენებები.",
+    contraindication1: "• მწვავე ინფექციური დაავადებები",
+    contraindication2: "• ავთვისებიანი სიმსივნეები",
+    contraindication3: "• გონებრივი ჩამორჩენილობა",
+    contraindication4: "• სინათლის აღქმის არ არსებობა",
+    contraindication5: "• ეპილეფსია",
+
+    sideEffects: "გვერდითი მოვლენები",
+    risk: "რისკი",
+    complications: "გართულებები",
+    allergies: "ალერგია",
+    excluded: "გამორიცხულია!",
+
+    advantages: "მაგოთერაპიის უპირატესობები.",
+    advantage1: "• ვმკურნალობთ ორგანიზმის რესურსზე დაყრდნობით",
+    advantage2: "• დაავადების სირთულე, ხანგრძლივობა მნიშვნელოვანი არ არის",
+    advantage3: "• ვმკურნალობთ ჩვილობიდან ღრმა მოხუცებულობამდე",
+    advantage4: "• პირველივე ვიზიტზე ვაძლევთ პროგნოზს მკურნალობის შედეგზე",
+    advantage5: "• დაპირებული მხედველობის აღდგენა ხდება მეორე გამოკვლევაზე",
+    advantage6: "• მკურნალობა არის ფიზიოლოგიური მხოლოდ კანის ზემოდან განთავსებული აპარატურით",
+    advantage7: "• ყველა პაციენტისთვის ვადგენთ ინდივიდუალურ მკურნალობის სქემას",
+    advantage8: "• არ ვიყენებთ მედიკამენტებს და ქირურგიას",
+    advantage9: "• სრულად გამორიცხულია გართულება, გვერდითი მოვლენები, ალერგია",
+    advantage10: "• დაპირებული შედეგი აღიქმება სატესტო პროცედურიდან ერთ საათში",
+    advantage11: "• შედეგის გასამყარებლად საჭიროა 5-10-14 დღე ( ინდივიდუალურია)",
+    advantage12: "• სწრაფი ეფექტური მკურნალობა ბანალური და განუკურნებადი დაავადების დროს",
+    advantage13: "• მხედველობის აღდგენა წარუმატებელი ოპერაციების შემდეგ",
+    advantage14: "• ჩერდება (ნელდება) დაავადებების პროგრესირება",
+    advantage15: "• განმეორებითი კურსების შემდეგ მხედველობა კვლავ მატულობს",
+    advantage16: "• მკურნალობის შედეგი სტაბილურია 18-20 წლის მანძილზე",
+    advantage17: "• ფართოვდება მხედველობის ველი",
+    advantage18: "• უმჯობესდება მხედველობა შებინდებისას როგორც შორს ისე ახლოს",
+
+    canYouHelpMe: "მე დამეხმარებით?",
+
+    modalTitle: "ჩაწერა ვიზიტზე ექიმთან",
+    date: "თარიღი",
+    fullName: "სახელი გვარი",
+    email: "email",
+    phone: "ტელეფონი",
+    age: "ასაკი",
+    iAm: "მე ვარ",
+    selectOption: "----- აირჩიეთ -----",
+    patient: "პაციენტი",
+    familyMember: "ოჯახის წევრი",
+    friend: "მეგობარი",
+    medicalHistory: "დაავადების ისტორია",
+    privacyPolicy: "ვეთანხმები კონფიდენციალურობის პოლიტიკას",
+    submit: "გაგზავნა"
+  },
+
+  en: {
+    appointmentOnly: "APPOINTMENT ONLY",
+    bookAppointment: "Book\nAppointment\nwith Doctor",
+    bookingEmoji: "✏️",
+    pageTitle: "MAGOTHERAPY",
+    subtitle: "Non-surgical\n\nNon-medicamental\n\nPhysiological method of vision restoration",
+    clinicallyTested: "Clinically tested. Stable results. Without complications and risks.",
+    videoTitle1: "Why vision is restored",
+    videoTitle2: 'in "incurable" diseases without surgery and medications.',
+    mainHeading: "Magotherapy",
+    mainSubheading: "Physiological method of vision restoration\nwith innovative equipment,\nwithout surgery and medications.",
+
+    whatIsMagotherapy: "What Magotherapy is based on",
+    vedenskyText: "In 1901, Russian physiologist N.E. Vedensky made a sensational discovery proving that in any pathology, cells do not die - they are in a \"sleeping\" state, i.e., in a state of parabiosis. Based on the theory of parabiosis, using various methods, a group of scientists began to awaken retinal cells, i.e., return their function - VISION. In the Moscow Research Institute of Eye Microsurgery from 1990, surgical operations were successfully performed to restore vision by bringing cells out of the state of parabiosis. Due to their traumatic nature and complexity, these operations did not become widespread.",
+    vedenskyText2: "Our colleagues' experience in bringing cells out of parabiosis laid the foundation for Magotherapy.\nInstead of surgical intervention, we use different types of equipment specially created for Magotherapy. Equipment placed on the skin, in 0.002 of a second, causes positive biochemical changes in the body, cells emerge from the parabiotic state and regain their function - vision.",
+    magotherapyBoldText: "Completely excluding surgery and medications, based on the positive results of our colleagues in bringing cells out of parabiosis, we developed, clinically tested and implemented an absolutely physiological method - Magotherapy",
+
+    parabiozi: "Parabiosis",
+    parabioziText: "The parabiotic state is characterized by various phases of development that depend on the duration and intensity of the harmful agent's influence.\nIf we remove the harmful agent in time, a reverse development of these phases occurs; otherwise, biological death of the tissue or nerve occurs.\nThe good news is - parabiosis is a reversible process.\nThe scientific research of neurophysiologist N. Vedensky on parabiosis changed the existing law of force influence in physiology. He established that during parabiosis, three continuous unified processes are formed (excitation, inhibition, and a state of rest). The key point is - when force increases, the tissue or cell's response reaction does not increase, but decreases.\nThis evidence, our experience, and our desire to restore vision more effectively inspired us to create an individual treatment scheme using Magotherapy - personalized treatment adapted to a specific organism.\nParabiosis underlies the use of local anesthetics. Local anesthetics block sodium channels, which neurons and nerve fibers do not contain; accordingly, excitability of neurons and nerve fibers does not occur, and therefore pain does not spread and is controlled.\nParabiosis is not only a laboratory phenomenon - it is also found in life, for example, when we sleep, a certain part of the brain is in a parabiotic state; also, clinical death is a manifestation of a parabiotic state and more.",
+
+    whyPoorVision: "Why do you see poorly?",
+    whyPoorVisionText: "A person does not hear with their ear, does not see with their eye — the nervous system coordinates all organs.",
+    whyPoorVisionImportantHeading: "For clear vision, what matters most is",
+    important1: "How well the brain receives information through neuroimpulses",
+    important2: "How it processes this information",
+    important3: "How it transmits this information to the corresponding organs",
+    whyPoorVisionClosing: "When a person sees poorly from one or both eyes, a weak or very weak impulse reaches the brain (or does not reach it at all). The brain cannot notice this impulse and cannot process it, and accordingly returns an incomplete image to the eye.",
+
+    important: "IMPORTANT:",
+
+    whatIsNerveImpulse: "What is a nerve impulse and neuron?",
+    nerveImpulseText: "The carrier and transmitter of information in the nervous system is the nerve impulse.\n\nIt is generated in a nerve cell as a result of an electrochemical process and rapidly spreads in 0.002 of a second through the long outgrowth of the nerve cell - the axon.",
+
+    neuronComparison1: "The nerve impulse appears in the nerve cell as a result of an electrochemical process and spreads in 0.002 of a second through the axon.\n\nEach nerve cell consists of three parts: the body, a long nerve fiber - the axon (its length in humans ranges from several millimeters to a meter) and several short branched processes - dendrites",
+    neuronComparison2: "Let's compare a tree uprooted with its roots to a neuron. The long part of the neuron is the tree trunk. The tree bole is the cell body, and the disheveled roots are the dendrites.\n\nNerve cells are isolated from each other by membranes. But still, cells interact with each other. This happens at the junction of cells; this junction is called a \"synapse\"\n\nThe nerve impulse moves along the axon (tree trunk), like along wires, and transmits excitation through synapses, only in one direction from the axon to the dendrites or to the cell body (from the tree trunk to the bole or roots)",
+
+    howNerveImpulseFormed: "How a nerve impulse is formed",
+    nerveImpulseFormationText: "The nerve impulse is an electrochemical process\n\nFor the formation and proper functioning of a nerve impulse, energy is needed, which is generated inside the cell as a result of biochemical processes that ensure intracellular metabolism. For the proper functioning of intracellular metabolism, the difference between sodium and potassium and the regulation of metabolic products of many other bioactive substances are essential.",
+
+    synchronousActivity: "Synchronous and proper activity of intracellular metabolism ensures proper functioning of nerve impulses.\n\nBy acting through the skin with innovative equipment, intracellular metabolism is restored.\n\nCells emerge from the state of parabiosis, the nerve impulse is activated, the brain can recognize it, and vision becomes clear.",
+
+    whyVisionRestoresInHour: "Gratitude",
+    fedorovTribute: "Gratitude and cherished memory to my teachers — the head of the discipline, Academician Svyatoslav Fyodorov, and to the neurophysiologist, founder of the Institute of the Human Brain, Academician Natalia Bekhtereva.\n\nGratitude and cherished memory to the scientists who, on the basis of scientific-clinical works, proved that in any eye disease, cells are alive but do not function — they \"sleep\" — they are in a parabiotic state.\n\n\"Para\" means Near, \"Bio\" — Life. That is, a state close to life.",
+
+    mechanismOfRecovery: "Mechanism of vision restoration in one hour with Magotherapy",
+    mechanismText: "When we place innovative equipment alternately on the skin along the visual tract — at the points where the visual nerve impulse must pass — the equipment's action begins to restore intracellular metabolic processes by activating positive biochemical processes.",
+    biochemicalSubheading: "During Magotherapy treatment, positive biochemical changes manifest as follows:",
+
+    biochemicalChange1: "Cells are saturated with oxygen.",
+    biochemicalChange2: "Positive changes in blood PH.",
+    biochemicalChange3: "Change in cell membrane potential.",
+    biochemicalChange4: "Restoration of potassium and sodium balance.",
+    biochemicalChange5: "Many other positive changes.",
+
+    positiveChangesResult: "Positive biochemical changes in 0.002 of a second cause:",
+
+    step1: "Cells emerge from the parabiotic state.",
+    step2: "In 0.002 of a second, the nerve impulse reaches the brain.",
+    step3: "The brain already perceives the received impulse.",
+    step4: "Correctly processes the received impulse.",
+    step5: "Returns a complete image to the eye.",
+    step6: "Vision is restored.",
+
+    wholeSecret: "That's why the result is so incredibly fast - 1 hour after the procedure!",
+    secretText: "That's the whole \"secret\"\nof vision restoration,\nin such an incredibly short\ntime - one hour\nafter Magotherapy,\non the second day of examinations.",
+
+    treatmentAmbulatory: "Treatment is ambulatory",
+    patientAge: "Patient age: from infancy to old age",
+
+    lightningFlashes: "\"Lightning flashes\".",
+    lightningText: "One hour after the procedure, the patient perceives vision improvement as lightning flashes that appear with a certain periodicity before the eyes. Over ten working days, the duration and periodicity of \"lightning\" increases.\n\nMore and more cells \"wake up\" and join the vision process, while the brain \"learns\" to respond adequately to them. The result obtained in one hour needs consolidation, daily, for five or ten days, which is individual in each specific case. Repeated courses further improve vision.",
+
+    howRealisticToTreat: "How realistic is it to treat numerous diseases with Magotherapy?",
+    treatPatientNotDisease: "We treat the patient, not the disease!",
+    treatPatientText: "Only at our clinic \"New Technologies MaGo\" can we identify the body's resources and restore vision using the Magotherapy method.\n\nThe body's resources and their restoration do not depend on the etiology and duration of the disease, as well as the patient's age.\n\nThat's why we restore vision after unsuccessful operations, in patients with various diseases, including incurable ones.",
+
+    successStatistics: "Success statistics.",
+    statistics1: "Strabismus, Astigmatism, Myopia",
+    statistics2: "Hyperopia",
+    statistics3: "Amblyopia (Lazy eye)",
+    statistics4: "Retinal dystrophy.",
+    statistics5: "After unsuccessful operations.",
+    statistics6: "Glaucoma",
+    statistics7: "Nystagmus",
+    statistics8: "Nerve atrophy (partial)",
+    statistics9: "Keratoconus stage 1 and 2",
+
+    repeatCourses: "Due to the physiological nature of the method, treatment courses can be carried out\nevery 6-9-12 months until the desired result is achieved.\n\nRepeated courses of Magotherapy additionally improve vision.",
+
+    contraindications: "Contraindications.",
+    contraindication1: "• Acute infectious diseases",
+    contraindication2: "• Malignant tumors",
+    contraindication3: "• Mental retardation",
+    contraindication4: "• Absence of light perception",
+    contraindication5: "• Epilepsy",
+
+    sideEffects: "Side effects",
+    risk: "Risk",
+    complications: "Complications",
+    allergies: "Allergies",
+    excluded: "EXCLUDED!",
+
+    advantages: "Advantages of Magotherapy.",
+    advantage1: "• Patient age and type of disease are unlimited.",
+    advantage2: "• Treatment without surgery and medications.",
+    advantage3: "• Side effects, pain, and allergies are excluded.",
+    advantage4: "• We provide a prognosis of the possible treatment outcome.",
+    advantage5: "• The patient experiences restored vision everywhere in one hour.",
+    advantage6: "• 10 working days are needed to stabilize the result.",
+    advantage7: "• Vision restoration after unsuccessful operations.",
+    advantage8: "• Vision restoration in incurable diseases.",
+    advantage9: "• Treatment results are stable for over 20 years.",
+    advantage10: "• Glasses and contact lenses become unnecessary.",
+    advantage11: "• Repeated courses provide additional vision improvement.",
+    advantage12: "• Field of vision expands.",
+    advantage13: "• Twilight vision improves.",
+    advantage14: "• Vision increases at distance and close range.",
+    advantage15: "• Disease progression stops or slows down.",
+    advantage16: "• Quality of life improves.",
+    advantage17: "• Field of vision expands.",
+    advantage18: "• Twilight vision improves both at distance and close range.",
+
+    canYouHelpMe: "Can you help me?",
+
+    modalTitle: "Book appointment with Doctor",
+    date: "Date",
+    fullName: "Full Name",
+    email: "email",
+    phone: "Phone",
+    age: "Age",
+    iAm: "I am",
+    selectOption: "----- Select -----",
+    patient: "Patient",
+    familyMember: "Family member",
+    friend: "Friend",
+    medicalHistory: "Medical history",
+    privacyPolicy: "I agree with the privacy policy",
+    submit: "Submit"
+  },
+
+  ru: {
+    appointmentOnly: "ПРИЕМ СТРОГО ПО ЗАПИСИ",
+    bookAppointment: "Запись\nна приём\nк Врачу",
+    bookingEmoji: "✏️",
+    pageTitle: "Маготерапия",
+    subtitle: "Не хирургический\n\nНе медикаментозный\n\nФизиологический метод восстановления зрения",
+    clinicallyTested: "Клинически апробирован - Без осложнений, аллергии. - Стабильные результаты.",
+    videoTitle1: "Почему восстанавливается зрение",
+    videoTitle2: 'при "не излечимых" болезнях без хирургии и медикаментов.',
+    mainHeading: "Маготерапия",
+    mainSubheading: "Физиологический метод восстановления\nзрения инновационной аппаратурой,\nбез хирургии и медикаментов.",
+
+    whatIsMagotherapy: "На что опирается Маготерапия.",
+    vedenskyText: "В 1901 году, физиолог Н Е Введенский сделал сенсационное открытие доказав, что при любой патологии клетки не умирают - они находятся в\" спячем\" состоянии т.е в состоянии парабиоза. На основании теории парабиоза, применяя различные методы, группа ученых стала заниматься пробуждением клеток сетчатки, т.е возвращения им функции - ЗРЕНИЯ. В МНТК \"Микрохирургии Глаза\" с 1990 года успешно проводились хирургические операции для восстановления зрения путем вывода клеток из состояния парабиоза. В силу своей травматичности и сложности эти операции широкого распространения не получили",
+    vedenskyText2: "Полностью исключив хирургию и медикаменты, на основании положительных результатов наших коллег по выводу клеток из состоянии парабиоза, мы разработали, клинически апробировали и внедрили абсолютно физиологический метод- Маготерапия\n\nСпециально для Маготерапии созданная аппаратура, которая через кожу поочередно накладывается по пути прохождения зрительного нерва, насыщая клетки кислородом, вызывая положительные сдвиги в межклеточном обмене.\n\nУлучшение обмена веществ за 0,002 долю секунды, вызывает положительные биохимические сдвиги в организме. Клетки постепенно выходят из состояния парабиоза, начинают функционировать \"просыпаются\" и к ним возвращается и функция- зрение.",
+    magotherapyBoldText: "Полностью исключив хирургию и медикаменты, на основании положительных результатов наших коллег по выводу клеток из состоянии парабиоза, мы разработали, клинически апробировали и внедрили абсолютно физиологический метод- Маготерапия",
+
+    parabiozi: "Парабиоз",
+    parabioziText: "Парабиотическое состояние характеризуется различными фазами развития, которые зависят от продолжительности и силы воздействия вредного агента.\nЕсли мы своевременно устраним вредный агент, происходит обратное развитие этих фаз; иначе происходит биологическая гибель ткани или нерва.\nХорошая новость - парабиоз является обратимым процессом.\nНаучные исследования нейрофизиолога Н.Е. Введенского о парабиозе изменили существующий закон силового воздействия в физиологии. Он установил, что при парабиозе образуются три непрерывных единых процесса (возбуждение, торможение и состояние покоя). Главное - при увеличении силы ответная реакция ткани или клетки не возрастает, а уменьшается.\nЭти доказательства, наш опыт и желание в большей мере восстановить зрение вдохновили нас создать индивидуальную схему лечения с помощью Маготерапии - персонифицированное лечение, адаптированное к конкретному организму.\nПарабиоз лежит в основе применения местных анестетиков. Местные анестетики блокируют натриевые каналы, которых нейроны и нервные волокна не содержат, поэтому возбудимость нейронов и нервных волокон не происходит, и поэтому боль не распространяется и купируется.\nПарабиоз является не только лабораторным феноменом - он встречается и в жизни, например, когда мы спим, определённая часть мозга находится в парабиотическом состоянии; также клиническая смерть является проявлением парабиотического состояния и другое.",
+
+    whyPoorVision: "ПОЧЕМУ ГЛАЗ НЕ ВИДИТ?",
+    whyPoorVisionText: "Человек не видит глазом, не слышит ухом — нервная система координирует все органы.",
+    whyPoorVisionImportantHeading: "Для чёткого зрения главное",
+    important1: "Насколько качественно мозг получает информацию с помощью нейроимпульса",
+    important2: "Как перерабатывает эту информацию",
+    important3: "Как передаёт эту информацию соответствующим органам",
+    whyPoorVisionClosing: "Когда человек плохо видит одним или обоими глазами, к мозгу доходит (или не доходит) слабый или очень слабый импульс. Мозг не замечает этот импульс и не перерабатывает его, соответственно возвращает глазу неполноценное изображение.",
+
+    important: "ВАЖНО:",
+
+    whatIsNerveImpulse: "ЧТО ТАКОЕ НЕРВНЫЙ ИМПУЛЬС И НЕЙРОН?",
+    nerveImpulseText: "Центральная нервная система получает сведения о событиях во внешнем мире, с помощью нервных импульсов- сигналов, бегущих по нервам, как по проводам. С их помощью мозг зашифровывает свои приказы глазам, мышцам и различным внутренним органам. Наконец, на языке этих сигналов говорят между собой отдельные нервные клетки и нервные центры.",
+
+    neuronComparison1: "Нервный импульс появляется в нервной клетке в результате электрохимического процесса и распространяется за 0,002 долю секунды с помощью аксона.\n\nКаждая нервная клетка состоит из трех частей: из тела, длинного нервного волокна — аксона (длина его у человека от нескольких миллиметров до метра) и нескольких коротких ветвистых отростков — дендритов",
+    neuronComparison2: "Сравним вырванный с корнем дерево с нейроном. Длинная часть нейрона- ствол дерева. Корневище дерева- тело клетки, а взьерошенные корни- дентриты.\n\nНервные клетки изолированы друг от друга оболочками. Но все же клетки взаимодействуют между собой. Происходит это в месте стыка клеток; этот стык называется «синапс»\n\nНервный импульс движется по аксону (ствол дерева), как по проводам и передает возбуждение с помощью синапсов, только в одном направлении от аксона к дентритам или к телу клетки (от ствола дерева к корневищу или корням)",
+
+    howNerveImpulseFormed: "Как зарождается нервный импульс.",
+    nerveImpulseFormationText: "Нервный импульс это электрохимический процесс\n\nДля происхождения и правильного функционирования нервного импульса необходима энергия, которая возникает внутри клетки в результате биохимических процессов, обеспечивающих внутри клеточный обмен. Для правильного функционирования внутри клеточного обмена, существенное значение имеет разница натрия и калия и регулирование продуктов обмена многих других биоактивные веществ.",
+
+    synchronousActivity: "Синхронная и исправная деятельность внутри клеточного обмена обеспечивает правильное функционирование нервного импульса.\n\nВоздействуя через кожу, инновационной аппаратурой происходит восстановление внутри клеточного обмена.\n\nКлетки выходят из состояния парабиоза, нервный импульс активируется, мозг может его распознать и зрение становится четким.",
+
+    whyVisionRestoresInHour: "Благодарность",
+    fedorovTribute: "Благодарность и светлая память моим учителям — руководителю направления, академику Святославу Фёдорову, и нейрофизиологу, основателю Института мозга человека, академику Наталии Бехтеревой.\n\nБлагодарность и светлая память учёным, которые на основании научно-клинических трудов доказали, что при любом заболевании глаз клетки живы, но не функционируют — они «спят» — находятся в парабиотическом состоянии.\n\n«Para» означает Около, «Bio» — Жизнь. То есть состояние, близкое к жизни.",
+
+    mechanismOfRecovery: "Механизм восстановления зрения через час.",
+    mechanismText: "Аппаратура, которая создана специально для Маготерапии, поочередно накладывается на кожу по ходу прохождения зрительного импульса. Под воздействием аппаратуры происходит восстановление внутриклеточных обменных процессов за счёт улучшения биохимических показателей.",
+    biochemicalSubheading: "При лечении Маготерапией положительные биохимические изменения выражаются в следующем:",
+
+    biochemicalChange1: "Клетки насыщаются кислородом.",
+    biochemicalChange2: "Положительные сдвиги РН крови.",
+    biochemicalChange3: "Изменение мембранного потенциала клеток.",
+    biochemicalChange4: "Разница калия и натрия доходит до нормального показателя.",
+    biochemicalChange5: "Многие другие положительные сдвиги.",
+
+    positiveChangesResult: "Позитивные биохимические изменения за 0,002 долю секунды вызывают:",
+
+    step1: "Клетки выходят из состояния парабиоза.",
+    step2: "За 0, 002 долю секунды нервный импульс доходит до мозга.",
+    step3: "Мозг уже воспринимает нервный импульс.",
+    step4: "Правильно перерабатывает полученный импульс.",
+    step5: "Возвращает глазу четкое изображение.",
+    step6: "Восстанавливается зрение.",
+
+    wholeSecret: "Вот весь \"секрет\" восстановления зрения, в столь не вероятно короткое время- через час после Маготерапии, на второй день обследований.",
+    secretText: "Вот весь \"секрет\"\nвосстановления зрения,\nв столь не вероятно короткое\nвремя- через час после\nМаготерапии, на второй\nдень обследований.",
+
+    treatmentAmbulatory: "Лечение амбулаторное",
+    patientAge: "Возраст пациента: от младенчества до глубокой старости",
+
+    lightningFlashes: "\"Вспышки молнии\".",
+    lightningText: "На второй день после тестирования, через час после Маготерапии у пациента восстанавливается зрение, которое он везде ощущает. Восстановленное зрение пациентом ощущается как проблески молнии, которые возникают с определенной периодичностью. На протяжении десяти дней, периоды и длительность просветления увеличиваются. Все большее количество клеток выходят из \"спячки\" и начинают втягиваться в процесс зрения. Мозг приучается на них адекватно реагировать и превращать световые импульсы поступающие в глаз, в четкое и ясное изображение. Количество времени, необходимое для закрепления результата, полученного через час после Маготерапии в любом конкретном случае индивидуально и колеблется от часа до трех- четырех часов. на протяжении десяти рабочих дней ежедневно.",
+
+    howRealisticToTreat: "Насколько реально лечить многочисленные болезни Маготерапией?",
+    treatPatientNotDisease: "Мы лечим пациента, а не заболевание!",
+    treatPatientText: "Только у нас, в клинике \"Новые технологии МаGо\" можем выявить ресурсы организма и восстановить зрение методом Маготерапия.\n\nРесурсы организма и их восстановление не зависит от этиологии и длительности болезниб а также от возраста пациента.\n\nВот почему мы восстанавливаем зрение после неудачно проведенных операций, у пациентов с различными болезнями, в том числе и не излечимыми.",
+
+    successStatistics: "Успешная статистика.",
+    statistics1: "Косоглазие, Астигматизм, Близорукость",
+    statistics2: "Дальнозоркость",
+    statistics3: "Амблиопия (Ленивый глаз)",
+    statistics4: "Дистрофия сетчатки.",
+    statistics5: "После не удачных операций.",
+    statistics6: "Глаукома",
+    statistics7: "Нистагм",
+    statistics8: "Атрофия нерва (частичная)",
+    statistics9: "Кератоконус 1 и 2 стадия",
+
+    repeatCourses: "В виду физиологичности метода, курсы лечения можно проводить\nчерез 6-9-12 месяцев до достижения желаемого результата.\n\nПовторные курсы Маготерапии дополнительно повышают зрение.",
+
+    contraindications: "Противопоказания.",
+    contraindication1: "• Острые инфекционные заболевания",
+    contraindication2: "• Злокачественные опухоли",
+    contraindication3: "• Умственная отсталость",
+    contraindication4: "• Отсутствие световосприятия",
+    contraindication5: "• Эпилепсия",
+
+    sideEffects: "Побочные явления",
+    risk: "Риск",
+    complications: "Осложнения",
+    allergies: "Аллергия",
+    excluded: "Исключены!",
+
+    advantages: "Преимущества Маготерапии.",
+    advantage1: "• Возраст пациента как и тип заболеваний не ограничен.",
+    advantage2: "• Лечение без хирургии и медикаментов.",
+    advantage3: "• Исключены побочные явления, боль, аллергия.",
+    advantage4: "• Даем прогноз о возможном исходе лечения.",
+    advantage5: "• Пациент везде ощущает восстановленное через час зрение.",
+    advantage6: "• Для стабилизации результата необходимо 10 рабочих дней.",
+    advantage7: "• Восстановление зрения после неудачно проведенных операций.",
+    advantage8: "• Восстановление зрения при неизлечимых заболеваниях.",
+    advantage9: "• Результаты лечения стабильны на протяжении более 20 лет.",
+    advantage10: "• Очки и линзы становятся не нужными.",
+    advantage11: "• Повторные курсы обеспечивают дополнительное повышение зрения.",
+    advantage12: "• Расширяется поле зрения.",
+    advantage13: "• Улучшается сумеречное зрение.",
+    advantage14: "• Повышается зрение в даль и на близком расстоянии.",
+    advantage15: "• Останавливается замедляется прогрессирование заболеваний.",
+    advantage16: "• Улучшается качество жизни.",
+    advantage17: "• Расширяется поле зрения.",
+    advantage18: "• Улучшается сумеречное зрение как вдаль, так и вблизи.",
+
+    canYouHelpMe: "Мне поможете?",
+
+    modalTitle: "Запись на приём к Врачу",
+    date: "Дата",
+    fullName: "Имя Фамилия",
+    email: "email",
+    phone: "Телефон",
+    age: "Возраст",
+    iAm: "Я",
+    selectOption: "----- Выберите -----",
+    patient: "Пациент",
+    familyMember: "Член семьи",
+    friend: "Друг",
+    medicalHistory: "История болезни",
+    privacyPolicy: "Я согласен с политикой конфиденциальности",
+    submit: "Отправить"
+  }
+};

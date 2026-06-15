@@ -1,0 +1,62 @@
+import { Language } from '../contexts/LanguageContext';
+
+const galleryTranslations = {
+  ge: {
+    photoGallery: 'ფოტო გალერეა',
+    videoGallery: 'ვიდეო გალერეა',
+    thankyou: 'მადლობას ვუხდით ყველა პაციენტს, ვინც ხელმოწერით თანხმობა განაცხადა ქვემოთ მოცემული მასალების გამოქვეყნებაზე.‎',
+    longTermResults: 'შორეული შედეგები.',
+    sielme: 'სიელმე',
+    astigmatizmi: 'ასტიგმატიზმი.',
+    nistagmi: 'ნისტაგმი.',
+    glaukoma: 'გლაუკომა.',
+    pigmenturiRetiniti: 'პიგმენტური რეტინიტი.',
+    ambliopia: 'ამბლიოპია (ზარმაცი თვალი)',
+    makulodistrofia: 'მაკულოდისტროფია.',
+    sorsmxedveloba: 'შორსმხედველობა.',
+    kompiuteruli: 'თვალის კომპიუტერული სინდრომი',
+    axlomxedveloba: 'ახლომხედველობა.',
+    ushedego: 'უშედეგო ოპერაციების მკურნალობა',
+    soreuli: 'შორეული შედეგები!',
+  },
+  en: {
+    photoGallery: 'Photo Gallery',
+    videoGallery: 'Video Gallery',
+    thankyou: 'We thank all patients who gave their signed consent for the publication of the materials below.',
+    longTermResults: 'LONG-TERM RESULTS.',
+    sielme: 'STRABISMUS',
+    astigmatizmi: 'ASTIGMATISM.',
+    nistagmi: 'NYSTAGMUS.',
+    glaukoma: 'GLAUCOMA.',
+    pigmenturiRetiniti: 'PIGMENTARY RETINITIS.',
+    ambliopia: 'AMBLYOPIA (LAZY EYE)',
+    makulodistrofia: 'MACULAR DYSTROPHY.',
+    sorsmxedveloba: 'FARSIGHTEDNESS.',
+    kompiuteruli: 'Computer Vision Syndrome',
+    axlomxedveloba: 'NEARSIGHTEDNESS.',
+    ushedego: 'Treatment after unsuccessful operations',
+    soreuli: 'LONG-TERM RESULTS!',
+  },
+  ru: {
+    photoGallery: 'Фото галерея',
+    videoGallery: 'Видео галерея',
+    thankyou: 'Мы благодарим всех пациентов, давших письменное согласие на публикацию представленных ниже материалов.',
+    longTermResults: 'ОТДАЛЁННЫЕ РЕЗУЛЬТАТЫ.',
+    sielme: 'КОСОГЛАЗИЕ',
+    astigmatizmi: 'АСТИГМАТИЗМ.',
+    nistagmi: 'НИСТАГМ.',
+    glaukoma: 'ГЛАУКОМА.',
+    pigmenturiRetiniti: 'ПИГМЕНТНЫЙ РЕТИНИТ.',
+    ambliopia: 'АМБЛИОПИЯ (ЛЕНИВЫЙ ГЛАЗ)',
+    makulodistrofia: 'МАКУЛОДИСТРОФИЯ.',
+    sorsmxedveloba: 'ДАЛЬНОЗОРКОСТЬ.',
+    kompiuteruli: 'Компьютерный зрительный синдром',
+    axlomxedveloba: 'БЛИЗОРУКОСТЬ.',
+    ushedego: 'Лечение после безуспешных операций',
+    soreuli: 'ОТДАЛЁННЫЕ РЕЗУЛЬТАТЫ!',
+  },
+};
+
+export function useGalleryTranslations(language: Language) {
+  return galleryTranslations[language];
+}
